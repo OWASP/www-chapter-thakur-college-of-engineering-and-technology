@@ -8,7 +8,7 @@ meetup-group:
 
 ---
 
-//<div style='color:red;'>
+
 <div >
 
 
