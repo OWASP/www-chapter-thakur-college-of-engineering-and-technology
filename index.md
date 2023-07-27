@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Thakur College of Engineering and Technology
-tags: example-tag
+tags: OWASP TCET
 region: Asia
 meetup-group:
 
@@ -10,21 +10,13 @@ meetup-group:
 
 <div style='color:red;'>
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+Thakur College of Engineering and Technology (TCET) has emerged as a prominent source of highly skilled and talented individuals, both for the nation and international communities. This esteemed institution stands at the forefront of engineering education, research, and innovation, embodying a legacy of excellence that inspires generations of aspiring engineers.
 
-<ul>
-<li>layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar</li>
+The OWASP Student Chapter at TCET is a shining exemplar among coding societies, attracting ingenious minds eager to revolutionize the world with their innovative techniques and discoveries. Through a series of dynamic events, including hackathons, tech-talks, workshops, and coding nights, the chapter maintains a thriving coding culture across the campus, fostering an environment of constant learning and growth.
 
-<li>title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore</li>
+Driven by a passion to make a positive impact, the brilliant minds of TCET's OWASP Student Chapter strive to create a better world through their groundbreaking contributions. With their unwavering dedication and commitment to knowledge, they exemplify the institution's mission to produce exceptional graduates ready to lead and innovate in the global engineering landscape.
 
-<li>tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) </li>
-
-<li>region: This is the region you are in according to our data</li>
-
-<li>meetup-group: This is the name of your meetup group, usually in the form of OWASP-chapter.  By putting these details here, the section below labeled 'Next Meeting/Event' will get automatically populated with your upcoming meetup events.</li>
-</ul>
-
-</div>
+As TCET continues to nurture and empower its students, it solidifies its position as a renowned hub for engineering education, playing a pivotal role in shaping a brighter future for society. The institution's dedication to excellence and its emphasis on research and innovation remain key factors in producing competent professionals who will continue to make remarkable contributions to the world of engineering and technology.
 
 ## Welcome
 Include some information here about your chapter
