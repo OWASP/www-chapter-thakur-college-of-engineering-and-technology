@@ -13,20 +13,9 @@ meetup-group:
 
 
 ## Welcome
-Thakur College of Engineering and Technology (TCET) has emerged as a prominent source of highly skilled and talented individuals, both for the nation and international communities. This esteemed institution stands at the forefront of engineering education, research, and innovation, embodying a legacy of excellence that inspires generations of aspiring engineers.
-
-The OWASP Student Chapter at TCET is a shining exemplar among coding societies, attracting ingenious minds eager to revolutionize the world with their innovative techniques and discoveries. Through a series of dynamic events, including hackathons, tech-talks, workshops, and coding nights, the chapter maintains a thriving coding culture across the campus, fostering an environment of constant learning and growth.
-
-Driven by a passion to make a positive impact, the brilliant minds of TCET's OWASP Student Chapter strive to create a better world through their groundbreaking contributions. With their unwavering dedication and commitment to knowledge, they exemplify the institution's mission to produce exceptional graduates ready to lead and innovate in the global engineering landscape.
-
-As TCET continues to nurture and empower its students, it solidifies its position as a renowned hub for engineering education, playing a pivotal role in shaping a brighter future for society. The institution's dedication to excellence and its emphasis on research and innovation remain key factors in producing competent professionals who will continue to make remarkable contributions to the world of engineering and technology.
+Welcome to the official page of Thakur College of Engineering and Technology's student chapter of OWASP! This chapter was established in July 2023 by a group of students enthusiastic about exploring and sharing the knowledge of cybersecurity. We aim to familiarize everyone with the necessary information to protect themselves in this perpetual digital world.  No matter what background you belong to, a desire to learn is all you need to join us and become an integral part of this fruitful mission.
 
 ## Participation
-Thakur College of Engineering and Technology takes pride in being affiliated with The Open Web Application Security Project (OWASP), a nonprofit foundation dedicated to enhancing the security of software. OWASP's inclusive approach ensures that all its projects, tools, documents, forums, and chapters are freely accessible to anyone interested in bolstering application security.
-
-The chapters under OWASP are led by local leaders, adhering to the guidelines outlined in the Chapters Policy. To support this noble cause, financial contributions are encouraged through the authorized online donation button, ensuring a transparent and secure process for those who wish to contribute. At TCET, we value the mission of OWASP and embrace the collaborative effort to fortify the realm of application security for the benefit of all.
-
-Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
