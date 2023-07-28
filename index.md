@@ -13,7 +13,7 @@ meetup-group:
 
 
 ## Welcome
-Welcome to the official page of Thakur College of Engineering and Technology's student chapter of OWASP! This chapter was established in July 2023 by a group of students enthusiastic about exploring and sharing the knowledge of cybersecurity. We aim to familiarize everyone with the necessary information to protect themselves in this perpetual digital world.  No matter what background you belong to, a desire to learn is all you need to join us and become an integral part of this fruitful mission.
+<br/>Welcome to the official page of Thakur College of Engineering and Technology's student chapter of OWASP! This chapter was established in July 2023 by a group of students enthusiastic about exploring and sharing the knowledge of cybersecurity. We aim to familiarize everyone with the necessary information to protect themselves in this perpetual digital world.  No matter what background you belong to, a desire to learn is all you need to join us and become an integral part of this fruitful mission.
 
 ## Participation
 
