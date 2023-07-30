@@ -8,10 +8,10 @@ tags: OWASP TCET
 
 ## Our Roles
 
-| Name | Role |
+| Role | Name |
 | --- | --- | --- |
-| Rhea Rajput | Secretary |
-| Rhea Rajput | Secretary |
-| Rhea Rajput | Secretary |
-| Rhea Rajput | Secretary |
-| Rhea Rajput | Secretary |
+| Event Manager | Sharez Shaikh |
+| Outreach Manager | Harshit Pandey |
+| Secretary | Rhea Rajput |
+| Technical Head | Shivam Mishra |
+| Webmaster | Vaibhav Singh |
