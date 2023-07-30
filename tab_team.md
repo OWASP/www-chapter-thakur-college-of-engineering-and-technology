@@ -8,7 +8,6 @@ tags: OWASP TCET
 
 ## Our Roles
 
-<div align="center">
 | Role | Name |
 | --- | --- | --- |
 | Event Manager | Sharez Shaikh |
@@ -20,4 +19,3 @@ tags: OWASP TCET
 | Outreach Coordinator | --- |
 | Junior Secretary | --- |
 | Web Lead | --- |
-</div>
