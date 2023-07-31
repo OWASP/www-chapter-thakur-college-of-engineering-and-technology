@@ -10,11 +10,11 @@ tags: OWASP TCET
 
 | Role | Name |
 | --- | --- | --- |
-| Event Manager | Sharez Shaikh | 
-| Outreach Manager | Harshit Pandey |
-| Secretary | Rhea Rajput |
-| Technical Head | Shivam Mishra |
-| Webmaster | Vaibhav Singh |
+| Event Manager | [Sharez Shaikh] (mailto:sharez.shaikh@owasp.org) | 
+| Outreach Manager | [Harshit Pandey] (mailto:harshitvpandey@gmail.com) |
+| Secretary | [Rhea Rajput] (mailto:rhea.rajput@owasp.org) |
+| Technical Head | [Shivam Mishra] (mailto:shivam.mishra@owasp.org) |
+| Webmaster | [Vaibhav Singh] (maileto:vaibhav.singh@owasp.org) |
 | Creative Lead | --- |
 | Event Coordinator | --- |
 | Junior Secretary | --- |
