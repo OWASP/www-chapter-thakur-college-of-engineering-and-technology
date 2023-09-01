@@ -16,8 +16,8 @@ tags: OWASP TCET
 | Technical Head | [Shivam Mishra](mailto:shivam.mishra@owasp.org) |
 | Treasurer | [Kaushal Agarwal](mailto:kaushalagarwal1818@gmail.com) |
 | Webmaster | [Vaibhav Singh](mailto:vaibhav.singh@owasp.org) |
-| Creative Lead | --- |
-| Event Coordinator | --- |
-| Junior Secretary | --- |
-| Outreach Coordinator | --- |
-| Web Lead | --- |
+| Creative Lead | [Saumya Maheshwari](mailto:saumyamurkya@gmail.com) |
+| Event Coordinator | [Dhiraj Kalwar](mailto:dhirajkalwar57@gmail.com) |
+| Junior Secretary | [Lakshya Singh](mailto:beyondlakshya@gmail.com) |
+| Outreach Coordinator | [Sharad Pandey](mailto:pandeysharad079@gmail.com) |
+| Web Lead | [Soorya Srihari](mailto:abhinavsurya211@gmail.com) |
