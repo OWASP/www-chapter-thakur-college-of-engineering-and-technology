@@ -1,7 +1,5 @@
 ### Thakur College of Engineering and Technology Information
-* Provide Group Information
+* [Thakur College of Engineering and Technology](https://tcetmumbai.in/)
 
 ### Social Links
-* [Meetup](#)
-
-
+* [Meetup](https://www.meetup.com/owasp-tcet-chapter)
