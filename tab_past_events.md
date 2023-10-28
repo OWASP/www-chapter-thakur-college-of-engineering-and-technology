@@ -1,11 +1,10 @@
 ---
-title: Past Events
-layout: null
+title: Past Event
+layout:  null
 tab: true
-order: 3
+order: 1
 tags: OWASP TCET
 ---
-
 # Past Events
 
 ## Event 1
