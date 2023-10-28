@@ -1,10 +1,10 @@
----
-title: Past Event
-layout:  null
+title: Past Events
+layout: null
 tab: true
 order: 1
 tags: OWASP TCET
 ---
+
 # Past Events
 
 ## Event 1
@@ -52,5 +52,3 @@ tags: OWASP TCET
 
 **Event Highlights:**  
 [Highlight any special moments or key takeaways from Event 2]
-
-[Repeat the above structure for each additional event you want to include on the page.]
