@@ -4,61 +4,91 @@ layout: null
 tab: true
 order: 1
 tags: OWASP TCET
-events:
-  - title: Event 1
-    date: [Event 1 Date]
-    location: [Event 1 Location]
-    description: [Event 1 description and highlights]
-    image1: [event1_image1.jpg]
-    image1_link: [event1_image1_link]
-    image2: [event1_image2.jpg]
-    image2_link: [event1_image2_link]
-    image3: [event1_image3.jpg]
-    image3_link: [event1_image3_link]
-    video1_link: [event1_social_media_link_1]
-    video2_link: [event1_social_media_link_2]
-    video3_link: [event1_social_media_link_3]
-    highlights: [Highlight any special moments or key takeaways from Event 1]
-
-  - title: Event 2
-    date: [Event 2 Date]
-    location: [Event 2 Location]
-    description: [Event 2 description and highlights]
-    image1: [event2_image1.jpg]
-    image1_link: [event2_image1_link]
-    image2: [event2_image2.jpg]
-    image2_link: [event2_image2_link]
-    image3: [event2_image3.jpg]
-    image3_link: [event2_image3_link]
-    video1_link: [event2_social_media_link_1]
-    video2_link: [event2_social_media_link_2]
-    video3_link: [event2_social_media_link_3]
-    highlights: [Highlight any special moments or key takeaways from Event 2]
 ---
 
-# Past Events
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  /* Style the tab buttons */
+  .tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+  }
 
-{% for event in page.events %}
-## {{ event.title }}
+  /* Style the tab content */
+  .tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+  }
+</style>
+</head>
+<body>
 
-**Date:** {{ event.date }}
-**Location:** {{ event.location }}
+<h2>Past Events</h2>
 
-**Event Overview:**  
-{{ event.description }}
+<div class="tab">
+  <button class="tablinks" onclick="openTab(event, 'event1')">Event 1</button>
+  <button class="tablinks" onclick="openTab(event, 'event2')">Event 2</button>
+</div>
 
-**Event Photos:**
+<div id="event1" class="tabcontent">
+  <h3>Event 1</h3>
+  <p><strong>Date:</strong> October 10, 2023</p>
+  <p><strong>Location:</strong> Virtual</p>
+  <p><strong>Event Overview:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed auctor, nisl non hendrerit.</p>
+  <p><strong>Event Photos:</strong></p>
+  <img src="event1_image1.jpg" alt="Image 1">
+  <img src="event1_image2.jpg" alt="Image 2">
+  <img src="event1_image3.jpg" alt="Image 3">
+  <p><strong>Event Videos:</strong></p>
+  <ul>
+    <li><a href="event1_video1_link">Watch Video 1</a></li>
+    <li><a href="event1_video2_link">Watch Video 2</a></li>
+    <li><a href="event1_video3_link">Watch Video 3</a></li>
+  </ul>
+  <p><strong>Event Highlights:</strong> Highlight any special moments or key takeaways from Event 1.</p>
+</div>
 
-[![Image 1]({{ event.image1 }})]({{ event.image1_link }})
-[![Image 2]({{ event.image2 }})]({{ event.image2_link }})
-[![Image 3]({{ event.image3 }})]({{ event.image3_link }})
+<div id="event2" class="tabcontent">
+  <h3>Event 2</h3>
+  <p><strong>Date:</strong> November 15, 2023</p>
+  <p><strong>Location:</strong> Thakur College of Engineering and Technology</p>
+  <p><strong>Event Overview:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed auctor, nisl non hendrerit.</p>
+  <p><strong>Event Photos:</strong></p>
+  <img src="event2_image1.jpg" alt="Image 1">
+  <img src="event2_image2.jpg" alt="Image 2">
+  <img src="event2_image3.jpg" alt="Image 3">
+  <p><strong>Event Videos:</strong></p>
+  <ul>
+    <li><a href="event2_video1_link">Watch Video 1</a></li>
+    <li><a href="event2_video2_link">Watch Video 2</a></li>
+    <li><a href="event2_video3_link">Watch Video 3</a></li>
+  </ul>
+  <p><strong>Event Highlights:</strong> Highlight any special moments or key takeaways from Event 2.</p>
+</div>
 
-**Event Videos:**
+<script>
+function openTab(evt, tabName) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+  document.getElementById(tabName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
 
-- [Watch Video 1]({{ event.video1_link }})
-- [Watch Video 2]({{ event.video2_link }})
-- [Watch Video 3]({{ event.video3_link }})
+// Open the first tab by default
+document.getElementById("event1").style.display = "block";
+</script>
 
-**Event Highlights:**  
-{{ event.highlights }}
-{% endfor %}
+</body>
+</html>
