@@ -63,4 +63,3 @@ events:
     video2_link: [event2_social_media_link_2]
     video3_link: [event2_social_media_link_3]
     highlights: [Highlight any special moments or key takeaways from Event 2]
-{% endfor %}
