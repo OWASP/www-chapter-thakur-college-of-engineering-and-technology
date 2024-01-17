@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP TCET (Thakur College of Engineering and Technology)
 tags: OWASP TCET
 region: Asia
+country: India
 meetup-group:
 
 ---
