@@ -20,4 +20,3 @@ tags: OWASP TCET
 | Event Coordinator | [Dhiraj Kalwar](mailto:dhirajkalwar57@gmail.com) |
 | Junior Secretary | [Lakshya Singh](mailto:beyondlakshya@gmail.com) |
 | Outreach Coordinator | [Sharad Pandey](mailto:pandeysharad079@gmail.com) |
-| Web Lead | [Soorya Srihari](mailto:abhinavsurya211@gmail.com) |
