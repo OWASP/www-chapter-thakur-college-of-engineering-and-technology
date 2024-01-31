@@ -32,5 +32,6 @@ tags: OWASP TCET
     .gallery-item img {
         width: 100%;
         height: auto;
+        object-fit: contain;
     }
 </style>
