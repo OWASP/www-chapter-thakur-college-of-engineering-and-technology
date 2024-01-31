@@ -1,5 +1,5 @@
 ---
-title: pastevents 
+title: past 
 layout:  null
 tab: true
 order: 1
