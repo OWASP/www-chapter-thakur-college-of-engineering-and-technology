@@ -12,7 +12,16 @@ tags: OWASP TCET
 
 <div class="gallery">
    <div class="gallery-item">
-        <img src="./assets/images/PAST EVENTS/Web Attacks(1).png" alt="Event 1">
+        <img src="./assets/images/PAST EVENTS/owasp_banner(3).png" alt="Event 1">
+        <div class="gallery-text">
+            <p>Event Name: <strong>Hands On Linux</strong></p>
+            <p>Date: February 2, 2024</p>
+            <p>Time: 2:30 - 4:30</p>
+            <p>Platform: TCET CAMPUS</p>
+        </div>
+   </div>
+   <div class="gallery-item">
+        <img src="./assets/images/PAST EVENTS/Web Attacks(1).png" alt="Event 2">
         <div class="gallery-text">
             <p>Event Name: <strong>Common Web Attacks</strong></p>
             <p>Date: January 27, 2024</p>
@@ -20,10 +29,19 @@ tags: OWASP TCET
             <p>Platform: Zoom</p>
         </div>
    </div>
-   <div class="gallery-item">
-        <img src="./assets/images/PAST EVENTS/Web Attacks(1).png" alt="Event 2">
+     <div class="gallery-item">
+        <img src="./assets/images/PAST EVENTS/OWASP.png" alt="Event 2">
         <div class="gallery-text">
-            <p>Event Name: <strong>Common Web Attacks</strong></p>
+            <p>Event Name: <strong>Common Tools For Attackers</strong></p>
+            <p>Date: January 19, 2024</p>
+            <p>Time: 2:30 - 4:30</p>
+            <p>Platform: Zoom</p>
+        </div>
+   </div>
+     <div class="gallery-item">
+        <img src="./assets/images/PAST EVENTS/Green White Modern Business Flyer (Instagram Post).png" alt="Event 2">
+        <div class="gallery-text">
+            <p>Event Name: <strong>Interaction With Industry Experts</strong></p>
             <p>Date: January 27, 2024</p>
             <p>Time: 2:30 - 4:30</p>
             <p>Platform: Zoom</p>
