@@ -1,5 +1,5 @@
 ---
-title: Past Events 
+title: past events
 layout:  null
 tab: true
 order: 2
@@ -47,7 +47,7 @@ tags: OWASP TCET
             <p>Event Name: <strong>Interaction With Industry Experts</strong></p>
             <p>Date: January 27, 2024</p>
             <p>Time: 2:30 - 4:30</p>
-            <p>Platform: Zoom</p>
+            <p>Platform: TCET CAMPUS</p>
              <p>Speaker: Mr Yash Roongta</p>
              <p>Speaker: Mr Himanshu Sharma</p>
              <p>Speaker: Mr Rohan Rane</p>
