@@ -39,24 +39,32 @@ tags: OWASP TCET
         grid-gap: 20px;
     }
 
-    .gallery-item {
-        position: relative;
-        object-fit: contain;
-    }
+ .gallery-item {
+    position: relative;
+    object-fit: contain;
+}
 
-    .gallery-text {
-        position: absolute;
-        bottom: 0;
-        left: 0;
-        background-color: rgba(255, 255, 255, 0.8);
-        padding: 10px;
-        width: 100%;
-        box-sizing: border-box;
-    }
+.gallery-text {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    visibility: hidden; /* Hide the text by default */
+    opacity: 0; /* Start with opacity 0 */
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 10px;
+    width: 100%;
+    box-sizing: border-box;
+    transition: visibility 0s, opacity 0.5s; /* Add transition effect */
+}
 
-    .gallery-item img {
-        width: 350px;
-        height: auto;
+.gallery-item:hover .gallery-text {
+    visibility: visible; /* Show the text on hover */
+    opacity: 1; /* Make the text fully visible */
+}
 
-    }
+.gallery-item img {
+    width: 350px;
+    height: auto;
+}
+
 </style>
