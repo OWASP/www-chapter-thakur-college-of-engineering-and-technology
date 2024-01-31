@@ -12,54 +12,24 @@ tags: OWASP TCET
 
 <div class="gallery">
    <div class="gallery-item">
-        <img src="./assets/images/PAST EVENTS/Web Attacks(1).png" alt="Event 2">
+        <img src="./assets/images/PAST EVENTS/Web Attacks(1).png" alt="Event 1">
         <div class="gallery-text">
-        <p>Event Name: <strong>Common Web Attacks</strong></p>
+            <p>Event Name: <strong>Common Web Attacks</strong></p>
             <p>Date: January 27, 2024</p>
-            <p>Time:2:30 - 4:30</p>
+            <p>Time: 2:30 - 4:30</p>
             <p>Platform: Zoom</p>
         </div>
+   </div>
    <div class="gallery-item">
         <img src="./assets/images/PAST EVENTS/Web Attacks(1).png" alt="Event 2">
         <div class="gallery-text">
-        <p>Event Name: <strong>Common Web Attacks</strong></p>
+            <p>Event Name: <strong>Common Web Attacks</strong></p>
             <p>Date: January 27, 2024</p>
-            <p>Time:2:30 - 4:30</p>
+            <p>Time: 2:30 - 4:30</p>
             <p>Platform: Zoom</p>
         </div>
-        <div class="gallery-item">
-        <img src="./assets/images/PAST EVENTS/Web Attacks(1).png" alt="Event 2">
-        <div class="gallery-text">
-        <p>Event Name: <strong>Common Web Attacks</strong></p>
-            <p>Date: January 27, 2024</p>
-            <p>Time:2:30 - 4:30</p>
-            <p>Platform: Zoom</p>
-        </div>
-        <div class="gallery-item">
-        <img src="./assets/images/PAST EVENTS/Web Attacks(1).png" alt="Event 2">
-        <div class="gallery-text">
-        <p>Event Name: <strong>Common Web Attacks</strong></p>
-            <p>Date: January 27, 2024</p>
-            <p>Time:2:30 - 4:30</p>
-            <p>Platform: Zoom</p>
-        </div>
-        <div class="gallery-item">
-        <img src="./assets/images/PAST EVENTS/Web Attacks(1).png" alt="Event 2">
-        <div class="gallery-text">
-        <p>Event Name: <strong>Common Web Attacks</strong></p>
-            <p>Date: January 27, 2024</p>
-            <p>Time:2:30 - 4:30</p>
-            <p>Platform: Zoom</p>
-        </div>
-        <div class="gallery-item">
-        <img src="./assets/images/PAST EVENTS/Web Attacks(1).png" alt="Event 2">
-        <div class="gallery-text">
-        <p>Event Name: <strong>Common Web Attacks</strong></p>
-            <p>Date: January 27, 2024</p>
-            <p>Time:2:30 - 4:30</p>
-            <p>Platform: Zoom</p>
-        </div>
-    <!-- Add more gallery items as needed -->
+   </div>
+   <!-- Add more gallery items as needed -->
 </div>
 
 <style>
@@ -71,6 +41,7 @@ tags: OWASP TCET
 
     .gallery-item {
         position: relative;
+        object-fit: contain;
     }
 
     .gallery-text {
@@ -84,8 +55,8 @@ tags: OWASP TCET
     }
 
     .gallery-item img {
-        width: 100%;
+        width: 350px;
         height: auto;
-        object-fit: contain;
+
     }
 </style>
