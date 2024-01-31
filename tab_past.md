@@ -27,7 +27,7 @@ tags: OWASP TCET
 
 <div class="gallery">
     <div class="gallery-item">
-        <img src="image1.jpg" alt="Event 1">
+        <img src="./assets/images/banner.png" alt="Event 1">
         <p>Date: January 1, 2023</p>
     </div>
     <div class="gallery-item">
