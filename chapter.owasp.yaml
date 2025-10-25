@@ -1,0 +1,20 @@
+leaders:
+  - name: Dr. Vidyadhari Singh
+    email: vidyadhari.singh@owasp.org
+location:
+  country: India
+  country_code: IN
+  region: Maharashtra
+  city: Mumbai
+  latitude: 18.9842254
+  longitude: 73.0427759
+name: OWASP TCET (Thakur College of Engineering and Technology)
+repositories:
+  - name: www-chapter-thakur-college-of-engineering-and-technology
+    url: https://github.com/OWASP/www-chapter-thakur-college-of-engineering-and-technology
+    description: OWASP Foundation Web Repository
+tags:
+  - OWASP
+  - TCET
+  - custom-tag-1
+website: https://owasp.org/www-chapter-thakur-college-of-engineering-and-technology
